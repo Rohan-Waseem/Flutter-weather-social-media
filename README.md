@@ -38,17 +38,17 @@ A **Flutter-based** mobile application that combines **real-time weather data** 
 bash:
 git clone https://github.com/Rohan-Waseem/Flutter-weather-social-media.git
 
-cd Flutter-weather-social-media
+Replace your lib folder with the lib folder in cloned project.
 
-## 2. Install dependencies
+### 2. Install dependencies
 
 [dependencies](./assets/1.png)
 
 flutter pub get
 
-## 3. Firebase Setup
+### 3. Firebase Setup
 
-## 4. Run the app
+### 4. Run the app
 
 flutter run
 
