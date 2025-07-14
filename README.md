@@ -54,19 +54,19 @@ flutter run
 
 ## Security Features
 
--**Email verification on signup**
--**Two-factor authentication for:**
--**Email change**
--**Password reset**
--**Only verified users can post or comment**
+-**Email verification on signup**  
+-**Two-factor authentication for:**  
+-**Email change**  
+-**Password reset**  
+-**Only verified users can post or comment**  
 
 ## License
-Licensed under the GNU GPLv3 License
-You may freely use, modify, and distribute the code under the same license terms.
+Licensed under the GNU GPLv3 License  
+You may freely use, modify, and distribute the code under the same license terms.  
 
 ## Developer
-Rohan Waseem
-rohan.waseem965@gmail.com
-https://www.linkedin.com/in/rohan-w-53124731b
+Rohan Waseem  
+rohan.waseem965@gmail.com.  
+https://www.linkedin.com/in/rohan-w-53124731b.  
 
 Made with using Flutter & Firebase
