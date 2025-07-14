@@ -29,7 +29,7 @@ A **Flutter-based** mobile application that combines **real-time weather data** 
 
 ## Demo Video
 
-[Click here to watch the demo](https://youtube.com/shorts/j7rnYx-pnOA?feature=share)
+[![Watch the demo](https://img.youtube.com/watch?v=j7rnYx-pnOA&list=PL460ZDb1xew9G3omqXxsFtPvnewLGcogZ/0.jpg)](https://www.youtube.com/watch?v=j7rnYx-pnOA&list=PL460ZDb1xew9G3omqXxsFtPvnewLGcogZ)
 
 ## Getting Started
 
