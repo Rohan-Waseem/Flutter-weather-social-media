@@ -27,9 +27,38 @@ A **Flutter-based** mobile application that combines **real-time weather data** 
 - **Weather API (OpenWeatherMap)**
 - **State Management**: Provider
 
-## Demo Video
+## Demo Video and Screenshots
 
 [![Watch the demo](assets/thumbnail.png)](https://www.youtube.com/watch?v=j7rnYx-pnOA&list=PL460ZDb1xew9G3omqXxsFtPvnewLGcogZ)
+<p float="left">
+  <img src="assets/18.png" width="300"/>
+  <img src="assets/2.png" width="300"/>
+    <img src="assets/3.png" width="300"/>
+</p>
+<p float="left">
+  <img src="assets/4.png" width="300"/>
+  <img src="assets/5.png" width="300"/>
+  <img src="assets/6.png" width="300"/>
+</p>
+<p float="left">
+  <img src="assets/7.png" width="300"/>
+  <img src="assets/8.png" width="300"/>
+  <img src="assets/9.png" width="300"/>
+</p>
+<p float="left">
+  <img src="assets/10.png" width="300"/>
+  <img src="assets/11.png" width="300"/>
+  <img src="assets/12.png" width="300"/>
+</p>
+<p float="left">
+  <img src="assets/13.png" width="300"/>
+  <img src="assets/14.png" width="300"/>
+  <img src="assets/15.png" width="300"/>
+</p>
+<p float="left">
+  <img src="assets/16.png" width="300"/>
+  <img src="assets/17.png" width="300"/>
+</p>
 
 ## Getting Started
 
